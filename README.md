@@ -18,13 +18,13 @@ This repository is a collection of my daily attempts at the **Top Interview 150*
 ## 📊 Progress Tracker
 | Section | Progress | Status |
 | :--- | :--- | :--- |
-| **Top Interview 150** | 1 / 150 | 🔥 The journey has begun! |
+| **Top Interview 150** | 2 / 150 | 🔥 The journey has begun! |
 
 ## 🧩 Solution Index
 | # | Title | Difficulty | Solution | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Merge Sorted Array | Easy | [Link](./top-interview-150/array-string/merge_sorted_array.cpp) | O(m+n) time, O(1) space with two-pointer |
-
+| 2 | Remove Element | Easy | [Link](./top-interview-150/array-string/remove_element.cpp) | O(m+n) time, O(1) space (In-place). Two-pointer strategy. |
 ---
 
 ## ✨ Professional Background

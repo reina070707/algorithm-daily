@@ -24,7 +24,8 @@ This repository is a collection of my daily attempts at the **Top Interview 150*
 | # | Title | Difficulty | Solution | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Merge Sorted Array | Easy | [Link](./top-interview-150/array-string/merge_sorted_array.cpp) | O(m+n) time, O(1) space with two-pointer |
-| 2 | Remove Element | Easy | [Link](./top-interview-150/array-string/remove_element.cpp) | O(m+n) time, O(1) space (In-place). Two-pointer strategy. |
+| 2 | Remove Element | Easy | [Link](./top-interview-150/array-string/remove_element.cpp) | O(n) time, O(1) space (In-place). Two-pointer strategy. |
+| 3 | Remove Duplicates from Sorted Array | Easy | [Link](./top-interview-150/array-string/remove_duplicates_from_sorted_array.cpp) | O(n) time, O(1) space. Two-pointer approach for sorted array. |
 ---
 
 ## ✨ Professional Background

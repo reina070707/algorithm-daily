@@ -1,0 +1,30 @@
+# --- Build Artifacts ---
+build/
+bin/
+lib/
+obj/
+
+# --- CMake generated files ---
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+_deps/
+
+# --- Coverage (lcov/gcov) ---
+*.gcda
+*.gcno
+*.info
+out/
+
+# --- OS specific ---
+.DS_Store
+Thumbs.db
+
+# --- IDE specific ---
+.vscode/
+.idea/
+*.swp

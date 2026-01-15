@@ -18,7 +18,7 @@ This repository is a collection of my daily attempts at the **Top Interview 150*
 ## 📊 Progress Tracker
 | Section | Progress | Status |
 | :--- | :--- | :--- |
-| **Top Interview 150** | 5 / 150 | 🔥 The journey has begun! |
+| **Top Interview 150** | 6 / 150 | 🔥 The journey has begun! |
 
 ## 🧩 Solution Index
 | # | Title | Difficulty | Solution | Note |
@@ -28,6 +28,7 @@ This repository is a collection of my daily attempts at the **Top Interview 150*
 | 3 | Remove Duplicates from Sorted Array | Easy | [Link](./top-interview-150/array-string/remove_duplicates_from_sorted_array.cpp) | O(n) time, O(1) space. Two-pointer approach for sorted array. |
 | 4 | Happy Number | Easy | [Link](./top-interview-150/hashmap/happy_number.cpp) | O(logn) time, O(1) space. Avoided using extra data structures like hash sets. |
 | 5 | Minimum Size Subarray Sum | Medium | [Link](./top-interview-150/sliding-window/minimum_size_subarray_sum.cpp) | O(n) time, O(1) space. Using the sliding window technique, avoiding extra data structures. |
+| 6 | Rotate Array | Easy | [Link](./top-interview-150/array-string/rotate_array.cpp) | O(n) time, O(1) space. Implemented in-place rotation using the triple-reverse algorithm to ensure zero auxiliary space. |
 ---
 
 ## ✨ Professional Background

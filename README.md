@@ -18,7 +18,7 @@ This repository is a collection of my daily attempts at the **Top Interview 150*
 ## 📊 Progress Tracker
 | Section | Progress | Status |
 | :--- | :--- | :--- |
-| **Top Interview 150** | 7 / 150 | 🔥 The journey has begun! |
+| **Top Interview 150** | 8 / 150 | 🔥 The journey has begun! |
 
 ## 🧩 Solution Index
 | # | Title | Difficulty | Solution | Note |
@@ -30,6 +30,7 @@ This repository is a collection of my daily attempts at the **Top Interview 150*
 | 5 | Minimum Size Subarray Sum | Medium | [Link](./top-interview-150/sliding-window/minimum_size_subarray_sum.cpp) | O(n) time, O(1) space. Using the sliding window technique, avoiding extra data structures. |
 | 6 | Rotate Array | Easy | [Link](./top-interview-150/array-string/rotate_array.cpp) | O(n) time, O(1) space. Implemented in-place rotation using the triple-reverse algorithm to ensure zero auxiliary space. |
 | 7 | Product of Array Except Self | Medium | [Link](./top-interview-150/array-string/product_of_array_except_self.cpp) | O(n) time, O(1) space. Calculated prefix and suffix products directly in the result array to achieve $O(1)$ auxiliary space without division. |
+| 8 | Best Time to Buy and Sell Stock | Easy | [Link](./top-interview-150/array-string/besttime_to_buy_and_sell_stock.cpp) | O(n) time, O(1) space. Implemented a one-pass algorithm to track the minimum price and update the maximum profit. |
 ---
 
 ## ✨ Professional Background
